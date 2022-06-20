@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <br/>
 <i>Who am i? </i>
-<ol>
+<ul>
   <li>🔭 My activity currently is study at <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a></li>
   <li>🌱 I'am currently learning about android app development, mysql & oracle database, and IoT</li>
   <li>✨ I'am interest at mobile app development, database management, IoT creation, and imagination world</li>
   <li>👯 I'am open for collaborate on any my interest</li>
   <li>📫 How to reach me? see this bottom readme...</li>
   <li>⚡ Fun fact:  Move swiftly like the wind and be shaped like wood. Attack like Fire and stay still like Mountain</li>
-</ol>
+</ul>
 <br/>
 
 [![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/luthfi-bangun-28a9621ba/)
