@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Stackoverflow-%23F47F24?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15921807/luthfinzo)
 [![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff)](https://codepen.io/luthfi-bangun)
 
-<br/>
 <i>Who am i? </i>
 <ul>
   <li>🔭 My activity currently is study at <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a></li>
@@ -37,7 +36,6 @@ Here are some ideas to get you started:
   <li>📫 How to reach me? see this bottom readme...</li>
   <li>⚡ Fun fact:  Move swiftly like the wind and be shaped like wood. Attack like Fire and stay still like Mountain</li>
 </ul>
-<br/>
 
 ### 🛠️ Language, Technology, & Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
