@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Hi there! I'm Muhamad Luthfi, whats up?
-
 <div align="center">
   <img src="https://media.giphy.com/media/l3V0DKL9Jhyz8nKog/giphy.gif" width="600" height="300">
 </div>
+
+### 👋 Hi there! I'm Muhamad Luthfi, whats up?
 
 <br/>
 <i>Who am i? </i>
@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Stackoverflow-%23F47F24?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15921807/luthfinzo)
 [![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff)](https://codepen.io/luthfi-bangun)
 
-## Tools
-<table>
-  <tr>
-    <th>
-      ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-      ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-    </th>
-  </tr>
-</table>
+## 🛠️ Language & Tools
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=flat-square&logo=android-studio)
+![Intellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
+
 
