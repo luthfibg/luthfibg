@@ -22,17 +22,28 @@ Here are some ideas to get you started:
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/luthfi-bangun-28a9621ba/">
+    <img src="https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff"/>
+  </a>
+  <a href="https://www.instagram.com/luthfibgn/">
+    <img src="https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff"/>
+  </a>
+  <a href="https://www.instagram.com/sunrise_nov/">
+    <img src="https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff"/>
+  </a>
+  <a href="https://github.com/luthfibg">
+    <img src="https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCxpvymT9aBe_rglZxNpTEPw">
+    <img src="https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube"/>
+  </a>
+  <a href="https://stackoverflow.com/users/15921807/luthfinzo">
+    <img src="https://img.shields.io/badge/-Stackoverflow-%23F47F24?style=flat-square&logo=stackoverflow&logoColor=ffffff"/>
+  </a>
+  <a href="https://codepen.io/luthfi-bangun">
+    <img src="https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff"/>
+  </a>
 </div>
-
-[![](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-[![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/luthfi-bangun-28a9621ba/)
-[![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/luthfibgn/)
-[![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sunrise_nov/)
-[![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/luthfibg)
-[![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCxpvymT9aBe_rglZxNpTEPw)
-[![](https://img.shields.io/badge/-Stackoverflow-%23F47F24?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15921807/luthfinzo)
-[![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff)](https://codepen.io/luthfi-bangun)
-
 <hr/>
 
 <i>Who am i? </i>
