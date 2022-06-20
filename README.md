@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l3V0DKL9Jhyz8nKog/giphy.gif" width="600" height="300">
+  <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="600" height="300">
 </div>
 
 ### 👋 Hi there! I'm Muhamad Luthfi, whats up?
@@ -31,12 +31,14 @@ Here are some ideas to get you started:
 </ul>
 <br/>
 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 [![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/luthfi-bangun-28a9621ba/)
 [![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/luthfibgn/)
 [![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sunrise_nov/)
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/luthfibg)
 [![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCxpvymT9aBe_rglZxNpTEPw)
 [![](https://img.shields.io/badge/-Stackoverflow-%23F47F24?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15921807/luthfinzo)
+[![](https://luthfinzo.github.io/badges/src/stackoverflow.svg)]
 [![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff)](https://codepen.io/luthfi-bangun)
 
 ## 🛠️ Language & Tools
