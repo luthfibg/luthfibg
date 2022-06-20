@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/luthfibg)
 [![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCxpvymT9aBe_rglZxNpTEPw)
 [![](https://img.shields.io/badge/-Stackoverflow-%23EF8236?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15921807/luthfinzo)
-[![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen%logoColor=ffffff)](https://codepen.io/luthfi-bangun)
+[![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff)](https://codepen.io/luthfi-bangun)
 
