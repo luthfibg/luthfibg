@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 </div>
 
 ### 👋 Hi there! I'm Muhamad Luthfi, whats up?
+[![](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/luthfi-bangun-28a9621ba/)
+[![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/luthfibgn/)
+[![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sunrise_nov/)
+[![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/luthfibg)
+[![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCxpvymT9aBe_rglZxNpTEPw)
+[![](https://img.shields.io/badge/-Stackoverflow-%23F47F24?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15921807/luthfinzo)
+[![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff)](https://codepen.io/luthfi-bangun)
 
 <br/>
 <i>Who am i? </i>
@@ -31,17 +39,7 @@ Here are some ideas to get you started:
 </ul>
 <br/>
 
-[![](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-[![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/luthfi-bangun-28a9621ba/)
-[![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/luthfibgn/)
-[![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sunrise_nov/)
-[![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/luthfibg)
-[![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCxpvymT9aBe_rglZxNpTEPw)
-[![](https://img.shields.io/badge/-Stackoverflow-%23F47F24?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15921807/luthfinzo)
-[![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff)](https://codepen.io/luthfi-bangun)
-
 ### 🛠️ Language, Technology, & Tools
-
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
@@ -87,4 +85,5 @@ Here are some ideas to get you started:
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=Pinterest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
 
+### 🔥My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luthfibg&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
