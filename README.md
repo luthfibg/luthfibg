@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <li>⚡ Fun fact:  Move swiftly like the wind and be shaped like wood. Attack like Fire and stay still like Mountain</li>
 </ol>
 <br/>
-<hr>
+
 [![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/luthfi-bangun-28a9621ba/)
 [![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/luthfibgn/)
 [![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sunrise_nov/)
