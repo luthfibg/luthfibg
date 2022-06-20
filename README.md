@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/luthfibg)
 [![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCxpvymT9aBe_rglZxNpTEPw)
 [![](https://img.shields.io/badge/-Stackoverflow-%23F47F24?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15921807/luthfinzo)
-[![](https://luthfibg.github.io/badges/src/stackoverflow.svg)]
 [![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff)](https://codepen.io/luthfi-bangun)
 
 ## 🛠️ Language, Technology, & Tools
@@ -47,7 +46,7 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=flat-square&logo=android-studio)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 
 
