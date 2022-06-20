@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hi there! I'm Muhamad Luthfi, whats up?
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l3V0DKL9Jhyz8nKog/giphy.gif" width="600" height="300">
+</div>
+
 <br/>
 <i>Who am i? </i>
 <ul>
