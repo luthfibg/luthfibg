@@ -17,7 +17,13 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="600" height="300">
 </div>
 
-### 👋 Hi there! I'm Muhamad Luthfi, whats up?
+<h3 align="center"> 👋 Hi there! I'm Muhamad Luthfi, whats up? </h3>
+<div align="center">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 [![](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/luthfi-bangun-28a9621ba/)
 [![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/luthfibgn/)
@@ -26,6 +32,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCxpvymT9aBe_rglZxNpTEPw)
 [![](https://img.shields.io/badge/-Stackoverflow-%23F47F24?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15921807/luthfinzo)
 [![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff)](https://codepen.io/luthfi-bangun)
+
 <hr/>
 
 <i>Who am i? </i>
@@ -34,7 +41,7 @@ Here are some ideas to get you started:
   <li>🌱 I'am currently learning about android app development, mysql & oracle database, and IoT</li>
   <li>✨ I'am interest at mobile app development, database management, IoT creation, and imagination world</li>
   <li>👯 I'am open for collaborate on any my interest</li>
-  <li>📫 How to reach me? see this bottom readme...</li>
+  <li>📫 How to reach me? look above...</li>
   <li>⚡ Fun fact:  Move swiftly like the wind and be shaped like wood. Attack like Fire and stay still like Mountain</li>
 </ul>
 <hr/>
