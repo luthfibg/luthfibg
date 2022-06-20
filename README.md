@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 [![](https://luthfibg.github.io/badges/src/stackoverflow.svg)]
 [![](https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff)](https://codepen.io/luthfi-bangun)
 
-## 🛠️ Language & Tools
+## 🛠️ Language, Technology, & Tools
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=flat-square&logo=android-studio)
-![Intellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 
 
