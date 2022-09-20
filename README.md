@@ -66,42 +66,42 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
-![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98?style=flat-square&logo=Dropbox&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=grey)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2?style=flat-square&logo=Coursera&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23123?&style=flat-square&logo=freecodecamp&logoColor=green)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white?style=flat-square&logo=opencv&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=flat-square&logo=heroku&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=flat-squareUpdate&logo=codepen&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=Pinterest&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+<!-- ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) -->
+<!-- ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white) -->
+<!-- ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white) -->
+<!-- ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white) -->
+<!-- ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98?style=flat-square&logo=Dropbox&logoColor=white) -->
+<!-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) -->
+<!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) -->
+<!-- ![Blender](https://img.shields.io/badge/Blender-%23F5792A?style=flat-square&logo=blender&logoColor=white) -->
+<!-- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white) -->
+<!-- ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) -->
+<!-- ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=grey) -->
+<!-- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2?style=flat-square&logo=Coursera&logoColor=white) -->
+<!-- ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23123?&style=flat-square&logo=freecodecamp&logoColor=green) -->
+<!-- ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=white) -->
+<!-- ![OpenCV](https://img.shields.io/badge/OpenCV-%23white?style=flat-square&logo=opencv&logoColor=white) -->
+<!-- ![CodePen](https://img.shields.io/badge/CodePen-white?style=flat-squareUpdate&logo=codepen&logoColor=black) -->
+<!-- ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) -->
+<!-- ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white) -->
+<!-- ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white) -->
+<!-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) -->
+<!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) -->
+<!-- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white) -->
+<!-- ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) -->
 <hr/>
 
 ### 🔥My Stats
