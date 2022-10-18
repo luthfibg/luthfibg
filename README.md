@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="600" height="300">
 </div>
 
-<h3 align="center"> 👋 Hi there! I'm Muhamad Luthfi, whats up? </h3>
+<h3 align="center"> 👋 Hi there! I'm Muhamad Luthfi, what's up? </h3>
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
