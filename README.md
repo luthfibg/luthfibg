@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 </div>
 <hr/>
 
+<div align="center">
 ### 🛠️ Language, Technology, & Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -67,6 +68,7 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=Pinterest&logoColor=white)
+
 
 <!-- ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) -->
 <!-- ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white) -->
@@ -97,3 +99,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luthfibg&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfibg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
