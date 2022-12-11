@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align="center">
-### 🛠️ Language, Technology, & Tools
-[in - fixing]
+  <h3> 🛠️ Language, Technology, & Tools </h3>
+  <p> [in - fixing] </p>
 <!-- [![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]
 ![VS Code](https://img.shields.io/badge/VS%20Code-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
@@ -96,8 +96,8 @@ Here are some ideas to get you started:
 <!-- ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) -->
 <hr/>
 
-### 🔥My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luthfibg&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  ### 🔥My Stats
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luthfibg&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfibg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfibg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
