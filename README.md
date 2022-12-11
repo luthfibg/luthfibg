@@ -46,17 +46,6 @@ Here are some ideas to get you started:
 </div>
 <hr/>
 
-<i>Who am i? </i>
-<ul>
-  <li>🔭 My activity currently is study at <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a></li>
-  <li>🌱 I'am currently learning about android app development, mysql & oracle database, and IoT</li>
-  <li>✨ I'am interest at mobile app development, database management, IoT creation, and imagination world</li>
-  <li>👯 I'am open for collaborate on any my interest</li>
-  <li>📫 How to reach me? look above...</li>
-  <li>⚡ Fun fact:  Move swiftly like the wind and be shaped like wood. Attack like Fire and stay still like Mountain</li>
-</ul>
-<hr/>
-
 ### 🛠️ Language, Technology, & Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
