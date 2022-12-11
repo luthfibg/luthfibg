@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 ### 🛠️ Language, Technology, & Tools
-[![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)]
+[in - fixing]
+<!-- [![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]
 ![VS Code](https://img.shields.io/badge/VS%20Code-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
@@ -67,7 +68,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=Pinterest&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=Pinterest&logoColor=white) -->
 
 
 <!-- ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) -->
