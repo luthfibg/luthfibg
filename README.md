@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 ### 🛠️ Language, Technology, & Tools
-![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]
 ![VS Code](https://img.shields.io/badge/VS%20Code-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=flat-square&logo=android-studio)
