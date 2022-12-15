@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="center"> 👋 Hi there! I'm Muhamad Luthfi, what's up? </h3>
+<p align="center">Tinggalkan yang ragu, jalani yang yakin. Mari maju bersama, maju setara.</p>
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
@@ -47,8 +48,11 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align="center">
-  <h3> 🛠️ Language, Technology, & Tools </h3>
-  <p> [in - fixing] </p>
+  <h3> 🛠️ Technology </h3>
+
+![My Skills](https://skillicons.dev/icons?i=github,css,flutter,mysql,firebase,laravel,bootstrap,arduino,linux)
+
+</div>
 <!-- [![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]
 ![VS Code](https://img.shields.io/badge/VS%20Code-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
@@ -95,9 +99,19 @@ Here are some ideas to get you started:
 <!-- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white) -->
 <!-- ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) -->
 <hr/>
+<div align="left">
 
-  ### 🔥My Stats
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luthfibg&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  ### 🔥Statistics
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfibg&theme=github_dark&show_icons=true)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfibg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ### ⌚Current Stats
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luthfibg&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+  ### 🌐Languages
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfibg&langs_count=6&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <hr>
+
 </div>
