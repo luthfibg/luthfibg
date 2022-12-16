@@ -45,7 +45,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Codepen-%23141414?style=flat-square&logo=codepen&logoColor=ffffff"/>
   </a>
 </div>
-<hr/>
+
+#
 
 <div align="center">
   <h3> 🛠️ Technology </h3>
@@ -98,20 +99,23 @@ Here are some ideas to get you started:
 <!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) -->
 <!-- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white) -->
 <!-- ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) -->
-<hr/>
+
+#
+
 <div align="left">
 
   ### 🔥Statistics
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfibg&theme=github_dark&show_icons=true)
 
+#
   
   ### ⌚Current Stats
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luthfibg&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+#
+
   ### 🌐Languages
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfibg&langs_count=6&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <hr>
 
 </div>
