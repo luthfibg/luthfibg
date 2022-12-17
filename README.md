@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 #
 
-  ### 🌐Languages
+  ### 🔤Languages
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfibg&langs_count=6&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
