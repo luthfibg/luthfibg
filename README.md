@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h3> 🛠️ Technology </h3>
 
-![My Skills](https://skillicons.dev/icons?i=github,css,flutter,mysql,firebase,laravel,bootstrap,arduino,linux)
+![My Skills](https://skillicons.dev/icons?i=github,css,flutter,mysql,firebase,laravel,bootstrap,react,arduino)
 
 </div>
 <!-- [![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)]
@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=Pinterest&logoColor=white) -->
