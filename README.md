@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h3> 🛠️ Technology </h3>
 
-![My Skills](https://skillicons.dev/icons?i=github,css,flutter,mysql,firebase,laravel,bootstrap,react,arduino)
+![My Skills](https://skillicons.dev/icons?i=github,css,mysql,firebase,laravel,bootstrap,react)
 
 </div>
 <!-- [![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)]
