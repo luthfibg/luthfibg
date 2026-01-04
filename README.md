@@ -113,13 +113,12 @@ Here are some ideas to get you started:
 <div align="left">
 
   ### 🔥Statistics
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfibg&theme=github_dark&show_icons=true)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 #
   
-  ### ⌚Current Stats
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=luthfibg)](https://git.io/streak-stats)
+### ⌚Current Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luthfibg)](https://git.io/streak-stats)
 
 #
 
