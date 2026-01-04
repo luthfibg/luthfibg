@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 #
   
   ### ⌚Current Stats
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luthfibg&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=luthfibg)](https://git.io/streak-stats)
 
 #
 
