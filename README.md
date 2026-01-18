@@ -108,21 +108,7 @@ Here are some ideas to get you started:
 <!-- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white) -->
 <!-- ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) -->
 
-#
+## 📊 GitHub Stats
 
-<div align="left">
-
-  ### 🔥Statistics
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-#
-  
-### ⌚Current Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luthfibg)](https://git.io/streak-stats)
-
-#
-
-  ### 🔤Languages
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfibg&hide=javascript&langs_count=6&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
