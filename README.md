@@ -111,4 +111,5 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 ![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
