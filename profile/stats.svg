@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Muhamad Luthfi Bangun Permadi's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 208, Total PRs: 237, Total Issues: 0, Contributed to (last year): 0</desc>
+        <title id="titleId">Muhamad Luthfi Bangun Permadi's GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 218, Total PRs: 239, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 157.73110698684445;
+        stroke-dashoffset: 157.02336860099174;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B-
+          B
         </text>
       
         </g>
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >208</text>
+      >218</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >237</text>
+      >239</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
